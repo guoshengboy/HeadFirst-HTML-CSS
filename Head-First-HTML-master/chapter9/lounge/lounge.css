@@ -1,0 +1,16 @@
+body {
+       font-size: 14px;
+       font-family: Verdana, Helvertica, Arial, sans-serif;
+}
+
+h1, h2{
+       color: #007e7e;
+}
+
+h1 {
+       font-size: 150%;
+}
+
+h2 {
+       font-size: 130%;
+}

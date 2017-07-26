@@ -1,6 +1,7 @@
 body {
        font-size: 14px;
        font-family: Verdana, Helvertica, Arial, sans-serif;
+       line-height: 160%;
 }
 
 h1, h2{
@@ -9,8 +10,41 @@ h1, h2{
 
 h1 {
        font-size: 150%;
+       background-color: red;
 }
 
 h2 {
        font-size: 130%;
+}
+
+p.testClass{
+       color: red;    
+}
+/*
+p.promiseClass{
+       line-height: 1.9em;
+       font-family: Georgia, "Time New Roman", Times, serif;
+       color: #444444;
+       font- stype: italic;
+       background-color: #a7cece;
+       background-image: url(images/background.gif);
+       background-repeat: no-repeat;
+       background-position: top left;
+       padding: 25px 25px 25px 80px;
+       border: 1px dashed white;
+       margin: 30px 250px 30px 30px;
+}*/
+
+#guarantee{
+       line-height: 1.9em;
+       font-family: Georgia, "Time New Roman", Times, serif;
+       color: #444444;
+       font- stype: italic;
+       background-color: #a7cece;
+       background-image: url(images/background.gif);
+       background-repeat: no-repeat;
+       background-position: top left;
+       padding: 25px 25px 25px 80px;
+       border: 1px dashed white;
+       margin: 30px 250px 30px 30px;
 }
